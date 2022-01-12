@@ -1,5 +1,5 @@
-name: sam
-description: A new Flutter project.
+name: safisampletest
+description: A sample Flutter project.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -34,6 +34,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  provider: ^6.0.2
+  dio: ^4.0.4
+  pull_to_refresh: ^2.0.0
+  google_fonts: ^2.2.0
+  jiffy: ^5.0.0
+  cached_network_image: ^3.2.0
 
 dev_dependencies:
   flutter_test:
